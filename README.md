@@ -25,7 +25,9 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
-<img src="/static/logo.png" height="100" width="540">
+<html>
+    <body>
+</html><img src="/static/logo.png" height="100" width="540">
 <table border="2" cellspacing="15" cellpadding="5">
     <caption>TIMETABLE</caption>
     <tr>
@@ -60,6 +62,66 @@ Execute the program using runserver command.
     <td>mentormeet</td>
     <td>freeslot</td>
     <tr>
+    <td>Thursday</td>
+    <td>freeslot</td>
+    <td>python</td>
+    <td>lunch</td>
+    <td>chem</td>
+    <td>freeslot</td>
+    </tr>
+    <tr>
+    <td>Friday</td>
+    <td colspan="2">freeslot</td>
+    <td>lunch</td>
+    <td>web</td>
+    <td>freeslot</td>
+    </tr>
+    <tr>
+    <td>Saturday</td>
+    <td>freeslot</td>
+    <td>python</td>
+    <td>lunch</td>
+    <td>web</td>
+    <td>freeslot</td>
+    </tr>
+    </table>
+    <table border="2">
+    <tr>
+    <th>S.No</th>
+    <th>Course Code</th>
+    <th>Course Name</th>
+    </tr>
+    <tr>
+    <td>1.</td>
+    <td>19AI301C</td>
+    <td>Python and Linear Algebra</td>
+    </tr>
+    <tr>
+    <td>2.</td>
+    <td>19AI414</td>
+    <td>Fundamental of Web Application Development</td>
+    </tr>
+    <tr>
+    <td>3.</td>
+    <td>19CY205</td>
+    <td>Principles of Chemistry in Engineering</td>
+    </tr>
+    <tr>
+    <td>4.</td>
+    <td>19EE305</td>
+    <td>Basic Electrical Electronics and Measurement Engineering</td>
+    </tr>
+    <tr>
+    <td>5.</td>
+    <td>19MA222</td>
+    <td>Probability and Queueing Models</td>
+    </tr>
+    </table>
+    </html>
+</body>
+    
+    
+
 ```
 ## OUTPUT
 ![alt text](harsha/slotapp/static/slot.png)
