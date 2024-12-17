@@ -117,8 +117,8 @@ Execute the program using runserver command.
     <td>Probability and Queueing Models</td>
     </tr>
     </table>
-    </html>
-</body>
+    </body>
+</html>
     
     
 
