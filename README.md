@@ -60,8 +60,8 @@ Execute the program using runserver command.
     <td>mentormeet</td>
     <td>freeslot</td>
     <tr>
-    ```
-##OUTPUT
+```
+## OUTPUT
 Screenshot (22).png
 
 ## RESULT
